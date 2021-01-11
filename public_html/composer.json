@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "twbs/bootstrap": "4.0.0",
+    "components/font-awesome": "^5.15"
+  }
+}

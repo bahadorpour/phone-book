@@ -1,0 +1,20 @@
+#featuresList {
+    color: #0024a2;
+}
+
+#featuresList ol {
+    font-size: 18px;
+}
+
+#featuresList ol li ol {
+    list-style-image: url("../../../public/images/nested.png");
+    padding: 5px 0 5px 18px;
+    font-size: 15px;
+    margin-right: 22px;
+}
+
+#featuresList ol li ol li {
+    color: #3897da;
+    height: 15px;
+    margin-right: 10px;
+}

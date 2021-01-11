@@ -1,0 +1,2 @@
+php_value include_path "C:\xampp\htdocs\PhoneBook\public_html\vendor"
+php_value auto_prepend_file "autoload.php"
