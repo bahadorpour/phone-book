@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/14/2019
- * Time: 7:15 PM
+ * Congigs
+ * Author: Mojdeh Bahadorpour
  */
 
 namespace App\Http;
@@ -11,7 +9,6 @@ namespace App\Http;
 
 class Config
 {
-
     const CONTROLLERS_PATH = "../app/Controllers/";
     const RESOURCES_PATH = "../resources/";
     const LAYOUT_PATH = "../resources/layout/";

@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/18/2019
- * Time: 10:33 AM
+ * Request: Get and Post
+ * Author: Mojdeh Bahadorpour
  */
 
 namespace App\Http;

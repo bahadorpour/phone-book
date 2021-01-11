@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * insert new member view
+ * Author: Mojdeh Bahadorpour
+ */
 $content = '
 <strong class="card-header text-center">
   <span class="fas fa-user-edit text-info"></span><span class="mr-3"> Edit User</span>

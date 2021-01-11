@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Contact us view
+ * Author: Mojdeh Bahadorpour
+ */
 $content = 
 '
 <style>

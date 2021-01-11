@@ -1,4 +1,9 @@
 <?php
+/**
+ * Forget password view
+ * Author: Mojdeh Bahadorpour
+ */
+
 use App\Packages\flashMessenger;
 
 $content = '

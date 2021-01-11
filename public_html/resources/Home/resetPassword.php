@@ -1,4 +1,8 @@
 <?php
+/**
+ * Reset password view
+ * Author: Mojdeh Bahadorpour
+ */
 
 $content = 
 '

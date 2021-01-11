@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/14/2019
- * Time: 7:00 PM
+ * Contact controller: Accepts input and converts it to commands for the contact us view.
+ * Author: Mojdeh Bahadorpour
  */
 
 use App\Http\BaseController;

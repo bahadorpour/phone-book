@@ -1,7 +1,7 @@
 <?php
 /**
- * Base Controller
- * User: Bahadorpour
+ * Base Controller:  A controller with basic functionalities from which the other controllers inherit.
+ * Author: Mojdeh Bahadorpour
  */
 
 namespace App\Http;

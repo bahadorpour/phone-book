@@ -1,8 +1,7 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
+ * Author: Mojdeh Bahadorpour
  */
 
 namespace App\Packages;

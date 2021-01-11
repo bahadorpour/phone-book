@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Accounts view
+ * Author: Mojdeh Bahadorpour
+ */
 
 $contentAdmin = 
 "

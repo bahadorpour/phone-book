@@ -1,4 +1,8 @@
 <?php
+/**
+ * DB Model: manages the data, logic and rules of the application
+ * Author: Mojdeh Bahadorpour
+ */
 
 namespace App\Models;
 

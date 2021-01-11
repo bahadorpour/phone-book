@@ -1,5 +1,5 @@
 <?php
-//Complete as soon as possible
+// Complete as soon as possible
 // this app have not exception Handling!
 
 namespace App\Exceptions;

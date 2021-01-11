@@ -1,4 +1,8 @@
 <?php
+/**
+ * Login form view
+ * Author: Mojdeh Bahadorpour
+ */
 use App\Packages\flashMessenger;
 
 $content = '

@@ -1,7 +1,7 @@
 <?php
 /**
- * About App: The structure and definition of the application
- * User: Bahadorpour
+ * About us view
+ * Author: Mojdeh Bahadorpour
  */
 
 $content = 

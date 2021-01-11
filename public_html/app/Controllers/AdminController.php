@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/20/2019
- * Time: 2:36 PM
+ * Admin controller: Accepts input and converts it to commands for the model and admin view.
+ * Author: Mojdeh Bahadorpour
  */
 
 use App\Http\BaseController;

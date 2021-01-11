@@ -1,5 +1,8 @@
 <?php
-
+/**
+ * Search view
+ * Author: Mojdeh Bahadorpour
+ */
 $content = 
 "
 <strong class='card-header text-center'>

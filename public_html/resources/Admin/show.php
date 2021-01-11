@@ -1,4 +1,9 @@
 <?php
+/**
+ * The view of admin page
+ * Author: Mojdeh Bahadorpour
+ */
+
 $contentAdmin = "
 <strong class='card-header text-center'>
   <span>Dear </span>

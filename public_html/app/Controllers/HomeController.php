@@ -1,10 +1,8 @@
 <?php
 
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/14/2019
- * Time: 7:01 PM
+ * Home controller: Accepts input and converts it to commands for the model and home view.
+ * Author: Mojdeh Bahadorpour
  */
 
 use App\Http\BaseController;

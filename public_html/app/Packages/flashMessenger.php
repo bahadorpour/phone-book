@@ -1,7 +1,7 @@
 <?php
 /**
  * FlashMessenger helper: used to render the messages of the FlashMessenger MVC
- * User: Bahadorpour
+ * Author: Mojdeh Bahadorpour
  */
 
 namespace App\Packages;

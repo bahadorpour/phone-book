@@ -1,9 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Bahadorpour
- * Date: 5/20/2019
- * Time: 10:27 AM
+ * About us controller: Accepts input and converts it to commands for about us view.
+ * Author: Mojdeh Bahadorpour
  */
 
 use App\Http\BaseController;
@@ -14,5 +12,4 @@ class AboutusController extends BaseController
     {
         return $this->view('Aboutus/show');
     }
-
 }
